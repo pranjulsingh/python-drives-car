@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 import cv2
 import numpy as np
-from matplotlib import *
 import time
 
 training_data = np.load("dataset/training_data.npy")
