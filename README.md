@@ -5,4 +5,6 @@ A deep learning model that drives truck in euro truck simulator.
 <ul>
   <li>OpenCV</li>
   <li>numpy</li>
+  <li>PIL</li>
+  <li>win32api</li>
 </ul>
